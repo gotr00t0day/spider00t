@@ -16,5 +16,7 @@ pip3 install -r requirements.txt
 ```
 python3 spider00t.py
 
+Enter Site: https://target.com/
+Enter File: .js (any file extension)
 ```
 
